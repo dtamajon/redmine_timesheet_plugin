@@ -6,4 +6,15 @@ ca:
   timesheet_activities_label: Activitat
   timesheet_users_label: Usuaris
   timesheet_showing_users: 'mostrant temps per a: '
-  timesheet_permalink: "(Enlla&ccedil; permanent a aquest full de temps)"
+  timesheet_permalink: '(Enlla&ccedil; permanent a aquest full de temps)'
+  timesheet_group_by: 'Agrupat per'
+  timesheet_groups_label: 'Grups'
+  label_show_project_status: 'Projectes en estat:'
+  label_list_size: Tamany de la llista
+  label_number_precision: Precisió numérica
+  label_user_status: 'Mostrar usuaris en estat'
+  text_active_projects: 'Actiu'
+  text_all_projects: 'Tots (actius i arxivats)'
+  text_active_users: 'Només actius'
+  text_all_users: 'Tots'
+

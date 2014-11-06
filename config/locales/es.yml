@@ -1,5 +1,6 @@
 es:
   timesheet_title: Hoja de tiempos
+  timesheet_date_range_label: Periodo
   timesheet_date_from_label: De
   timesheet_date_to_label: A
   timesheet_project_label: Proyecto
@@ -7,3 +8,14 @@ es:
   timesheet_users_label: Usuarios
   timesheet_showing_users: 'mostrando tiempos para: '
   timesheet_permalink: '(Permalink a esta hoja de tiempos)'
+  timesheet_group_by: 'Agrupado por'
+  timesheet_groups_label: 'Grupos'
+  label_show_project_status: 'Proyectos con el estado:'
+  label_list_size: Tamaño de la lista
+  label_number_precision: Precisión numérica
+  label_user_status: 'Mostrar usuarios con el estado'
+  text_active_projects: 'Activo'
+  text_all_projects: 'Todos (activos y archivados)'
+  text_active_users: 'Sólo activos'
+  text_all_users: 'Todos'
+

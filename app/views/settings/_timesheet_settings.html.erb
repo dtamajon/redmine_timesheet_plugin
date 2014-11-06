@@ -1,6 +1,6 @@
-<p><label for="settings_list_size">List size</label><%= text_field_tag 'settings[list_size]', @settings['list_size'] %></p>
+<p><label for="settings_list_size"><%= l(:label_list_size) %></label><%= text_field_tag 'settings[list_size]', @settings['list_size'] %></p>
 
-<p><label for="settings_precision">Number precision</label><%= text_field_tag 'settings[precision]', @settings['precision'] %></p>
+<p><label for="settings_precision"><%= l(:label_number_precision) %></label><%= text_field_tag 'settings[precision]', @settings['precision'] %></p>
 
 <p>
   <label for="settings_project_status"><%= l(:label_show_project_status) %></label>
